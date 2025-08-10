@@ -1,2 +1,1 @@
-Link: 
-      https://fuzz-mihi.itch.io/castle-rumble
+Link: https://fuzz-mihi.itch.io/castle-rumble
